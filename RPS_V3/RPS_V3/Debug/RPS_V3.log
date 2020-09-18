@@ -1,0 +1,10 @@
+﻿  Source.c
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(67): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[5]'
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(67): warning C4024: 'gets_s': different types for formal and actual parameter 1
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(69): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(109): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[5]'
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(109): warning C4024: 'gets_s': different types for formal and actual parameter 1
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(148): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\urbaser\documents\visual studio 2017\projects\rps_v3\rps_v3\source.c(151): warning C4013: 'rand' undefined; assuming extern returning int
+  RPS_V3.vcxproj -> C:\Users\Urbaser\Documents\Visual Studio 2017\Projects\RPS_V3\Debug\RPS_V3.exe
+  RPS_V3.vcxproj -> C:\Users\Urbaser\Documents\Visual Studio 2017\Projects\RPS_V3\Debug\RPS_V3.pdb (Partial PDB)
