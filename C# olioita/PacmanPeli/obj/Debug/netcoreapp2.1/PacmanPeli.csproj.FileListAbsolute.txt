@@ -1,0 +1,12 @@
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\bin\Debug\netcoreapp2.1\PacmanPeli.deps.json
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\bin\Debug\netcoreapp2.1\PacmanPeli.runtimeconfig.json
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\bin\Debug\netcoreapp2.1\PacmanPeli.runtimeconfig.dev.json
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\bin\Debug\netcoreapp2.1\PacmanPeli.dll
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\bin\Debug\netcoreapp2.1\PacmanPeli.pdb
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.csprojAssemblyReference.cache
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.csproj.CoreCompileInputs.cache
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.AssemblyInfoInputs.cache
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.AssemblyInfo.cs
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.dll
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.pdb
+C:\Koulu\Moduuli 2\Olio-ohjelmointi\PacmanPeli\PacmanPeli\obj\Debug\netcoreapp2.1\PacmanPeli.genruntimeconfig.cache
