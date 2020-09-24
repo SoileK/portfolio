@@ -1,0 +1,30 @@
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\bin\Debug\BensisOsa3.exe.config
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\bin\Debug\BensisOsa3.exe
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\bin\Debug\BensisOsa3.pdb
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.csprojAssemblyReference.cache
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Properties.Resources.resources
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.csproj.GenerateResource.cache
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.csproj.CoreCompileInputs.cache
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.exe
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.pdb
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Tankit.resources
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Paavalikko.resources
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Kirjautuminen.resources
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Kirjautuminen_hinnat.resources
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Hinnat.resources
+C:\Koulu\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Mainostaulu.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\bin\Debug\BensisOsa3.exe.config
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\bin\Debug\BensisOsa3.exe
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\bin\Debug\BensisOsa3.pdb
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.csprojAssemblyReference.cache
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Hinnat.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Kirjautuminen_hinnat.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Mainostaulu.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Tankit.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Paavalikko.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Kirjautuminen.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.Properties.Resources.resources
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.csproj.GenerateResource.cache
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.csproj.CoreCompileInputs.cache
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.exe
+C:\Koulu\Moduuli 1\Graafinen käyttöliittymä\Bensis\BensisOsa3\BensisOsa3\obj\Debug\BensisOsa3.pdb
